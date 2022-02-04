@@ -14,5 +14,6 @@ Planning and implementing CI/CD pipeline using the following tools:
 -------------------------------------------------------------------
 - 📫 How to reach me:
 Linkedin - https://www.linkedin.com/in/andrey-byhalenko-11677a27
+
 email - andrey.byhalenko@gmail.com
 
